@@ -1,0 +1,35 @@
+{
+  "$schema": "https://raw.githubusercontent.com/tact-lang/tact/main/src/config/configSchema.json",
+  "projects": [
+    {
+      "name": "Dao",
+      "path": "contracts/dao.tact",
+      "output": "build/Dao",
+      "options": {
+        "debug": false,
+        "external": false
+      },
+      "mode": "full"
+    },
+    {
+      "name": "Proposal",
+      "path": "contracts/proposal.tact",
+      "output": "build/Proposal",
+      "options": {
+        "debug": false,
+        "external": false
+      },
+      "mode": "full"
+    },
+    {
+      "name": "Lock",
+      "path": "contracts/lock.tact",
+      "output": "build/Lock",
+      "options": {
+        "debug": false,
+        "external": false
+      },
+      "mode": "full"
+    }
+  ]
+}
