@@ -6,18 +6,18 @@
 
 It allows communities to manage treasury, vote on proposals, and coordinate governance decisions using jetton-based voting power.
 
-### Overview
+### Overview (more in future project documentation)
 Enables onchain DAO governance with the following flow:
 
-Jetton holders lock their tokens to participate in governance.
+- Jetton holders lock their tokens to participate in governance.
 
-Participants create proposals (e.g. transfer funds, whitelist address).
+- Participants create proposals (e.g. transfer funds, whitelist address).
 
-Other token holders vote FOR or AGAINST the proposal.
+- Other token holders vote FOR or AGAINST the proposal.
 
-If the proposal meets the required quorum and support threshold, it is executed onchain.
+- If the proposal meets the required quorum and support threshold, it is executed onchain.
 
-🧠 Voting power is proportional to the amount of jettons locked by the participant.
+`⚖️ Voting power is proportional to the amount of jettons locked by the participant.`
 
 ## Project structure
 
